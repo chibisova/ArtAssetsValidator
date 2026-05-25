@@ -1,0 +1,8 @@
+.env
+.venv
+harness-env
+__pycache__
+logs/
+reports/
+watch_folder/*
+!watch_folder/.gitkeep
